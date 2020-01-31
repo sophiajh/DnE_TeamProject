@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SYCharacter.cpp.obj": [
+			"PlayerCharacter.cpp.obj",
+			"SY_Projectile.cpp.obj",
+			"SYCharacter.cpp.obj",
+			"SYPlayerController.cpp.obj"
+		],
+		"Module.SYCharacter.gen.cpp.obj": [
+			"PlayerCharacter.gen.cpp.obj",
+			"SY_Projectile.gen.cpp.obj",
+			"SYCharacter.gen.cpp.obj",
+			"SYCharacter.init.gen.cpp.obj",
+			"SYPlayerController.gen.cpp.obj"
+		]
+	}
+}

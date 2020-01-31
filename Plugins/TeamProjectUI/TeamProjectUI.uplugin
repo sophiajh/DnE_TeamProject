@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TeamProjectUI",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "KJH",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TeamProjectUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

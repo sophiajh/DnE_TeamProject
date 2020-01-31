@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SYCharacter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Map_0130\Intermediate\Build\Win64\Map_0130Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Map_0130\Plugins\SYCharacter\SYCharacter\Intermediate\Build\Win64\UE4Editor\Development\SYCharacter\Module.SYCharacter.cpp.obj"
+"C:\Map_0130\Plugins\SYCharacter\SYCharacter\Intermediate\Build\Win64\UE4Editor\Development\SYCharacter\Module.SYCharacter.gen.cpp.obj"
+"C:\Map_0130\Plugins\SYCharacter\SYCharacter\Intermediate\Build\Win64\UE4Editor\Development\SYCharacter\Default.rc2.res"
+/OUT:"C:\Map_0130\Plugins\SYCharacter\SYCharacter\Intermediate\Build\Win64\UE4Editor\Development\SYCharacter\UE4Editor-SYCharacter.lib"
+/INCLUDE:IMPLEMENT_MODULE_SYCharacter

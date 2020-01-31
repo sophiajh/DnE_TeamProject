@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DnE_AI",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "KSB",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DnE_AI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
